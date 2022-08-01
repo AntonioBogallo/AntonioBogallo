@@ -1,4 +1,4 @@
-### Hi there 👋
+### hi there 😄👋
 
 <!--
 **AntonioBogallo/AntonioBogallo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <h1>Hola mundo</h1>
-</div>

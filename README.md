@@ -1,5 +1,5 @@
-### hi there 😄👋
-
+# hi there 😄👋
+### I am currently working on improving the Github profile but I am quite busy training and taking courses.
 <!--
 **AntonioBogallo/AntonioBogallo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

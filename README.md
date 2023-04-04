@@ -1,8 +1,9 @@
 # Hi I'm Antonio Bogallo <img src = "https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/pikachu-pokemon-hi.gif" width="55">
-### I am currently working on improving the Github profile but i dont have mucho time now.
 
 
 ## <picture><img src = "https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/about_me.gif?raw=true" width = 50px></picture> **About me**
+
+### I am currently working on improving the Github profile but i dont have mucho time now.
 
 <!-- ## 🛠️ My Favorite Tools
 

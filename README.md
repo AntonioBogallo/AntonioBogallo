@@ -1,4 +1,4 @@
-# Hi I'm Antonio Bogallo <img src = "https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/pikachu-pokemon-hi.gif" width="35">
+# Hi I'm Antonio Bogallo <img src = "https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/pikachu-pokemon-hi.gif" width="55">
 ### I am currently working on improving the Github profile but i dont have mucho time now.
 
 

@@ -2,7 +2,7 @@
 ### I am currently working on improving the Github profile but i dont have mucho time now.
 
 
-<!-- ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me** -->
+## <picture><img src = "https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/about_me.gif?raw=true" width = 50px></picture> **About me**
 
 <!-- ## 🛠️ My Favorite Tools
 

@@ -7,7 +7,7 @@
 
 
 
-### <img src = "https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/pikachu-pokemon-hi.gif" width="35"> Front-End Development:
+### <img src = "https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/pc.gif" width="35"> Front-End Development:
 
 <p>
     <a href="https://html.spec.whatwg.org/multipage/"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>

@@ -13,77 +13,80 @@
     <a href="https://html.spec.whatwg.org/multipage/">
         <img 
         alt="HTML" 
-        src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white&style=plastic&style=plastic">
+        src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white&style=plastic"
+        style="height: 30px">
     </a>
     <a href="https://www.w3.org/Style/CSS/Overview.en.html">
         <img 
         alt="CSS" 
-        src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white&style=plastic&style=plastic">
+        src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white&style=plastic"
+        style="height: 30px">
     </a>
     <a href="https://262.ecma-international.org/13.0/#sec-intro">
         <img 
         alt="JavaScript" 
-        src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black&style=plastic&style=plastic&style=plastic">
+        src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black&style=plastic"
+        style="height: 30px">
     </a>
     <a href="https://vuejs.org/">
         <img 
         alt="VueJS" 
-        src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?logo=vuedotjs&logoColor=white&style=plastic&style=plastic">
+        src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?logo=vuedotjs&logoColor=white&style=plastic"style="height: 30px">
     </a>
     <a href="https://www.webcomponents.org/">
         <img 
         alt="Web Components" 
-        src="https://img.shields.io/badge/Web%20Components-%2329ABE2.svg?logo=webcomponentsdotorg&logoColor=white&style=plastic&style=plastic">
+        src="https://img.shields.io/badge/Web%20Components-%2329ABE2.svg?logo=webcomponentsdotorg&logoColor=white&style=plastic"style="height: 30px">
     </a>
     <a href="https://tailwindcss.com/">
         <img 
         alt="Tailwind CSS" 
-        src="https://img.shields.io/badge/Tailwind%20CSS%20-%2306B6D4.svg?logo=tailwindcss&logoColor=white&style=plastic&style=plastic">
+        src="https://img.shields.io/badge/Tailwind%20CSS%20-%2306B6D4.svg?logo=tailwindcss&logoColor=white&style=plastic"style="height: 30px">
     </a>
     <a href="https://bulma.io/">
         <img 
         alt="Bulma" 
-        src="https://img.shields.io/badge/Bulma%20-%2300D1B2.svg?logo=bulma&logoColor=white&style=plastic&style=plastic">
+        src="https://img.shields.io/badge/Bulma%20-%2300D1B2.svg?logo=bulma&logoColor=white&style=plastic"style="height: 30px">
     </a>
     <a href="https://react.dev/">
         <img 
         alt="React" 
-        src="https://img.shields.io/badge/React%20-%2361DAFB.svg?logo=react&logoColor=white&style=plastic&style=plastic">
+        src="https://img.shields.io/badge/React%20-%2361DAFB.svg?logo=react&logoColor=white&style=plastic"style="height: 30px">
     </a>
     <a href="https://reactrouter.com/">
         <img 
         alt="React Router" 
-        src="https://img.shields.io/badge/React%20Router%20-%23CA4245.svg?logo=reactrouter&logoColor=white&style=plastic&style=plastic">
+        src="https://img.shields.io/badge/React%20Router%20-%23CA4245.svg?logo=reactrouter&logoColor=white&style=plastic"style="height: 30px">
     </a>
     <a href="https://create-react-app.dev/">
         <img 
         alt="Create React App" 
-        src="https://img.shields.io/badge/Creat%20React%20App%20-%2309D3AC.svg?logo=createreactapp&logoColor=white&style=plastic">
+        src="https://img.shields.io/badge/Creat%20React%20App%20-%2309D3AC.svg?logo=createreactapp&logoColor=white&style=plastic"style="height: 30px">
     </a>
     <a href="https://lit.dev/">
         <img 
         alt="Lit" 
-        src="https://img.shields.io/badge/Lit%20-%23324FFF.svg?logo=lit&logoColor=white&style=plastic">
+        src="https://img.shields.io/badge/Lit%20-%23324FFF.svg?logo=lit&logoColor=white&style=plastic"style="height: 30px">
     </a>
     <a href="https://nodejs.org/">
         <img 
         alt="NodeJS"
-        src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white&style=plastic">
+        src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white&style=plastic"style="height: 30px">
     </a>
     <a href="https://postcss.org/">
         <img 
         alt="PostCSS"
-        src="https://img.shields.io/badge/PostCSS%20-%23DD3A0A.svg?logo=postcss&logoColor=white&style=plastic">
+        src="https://img.shields.io/badge/PostCSS%20-%23DD3A0A.svg?logo=postcss&logoColor=white&style=plastic"style="height: 30px">
     </a>
     <a href="#">
         <img 
         alt="SVG"
-        src="https://img.shields.io/badge/SVG%20-%23FFB13B.svg?logo=svg&logoColor=white&style=plastic">
+        src="https://img.shields.io/badge/SVG%20-%23FFB13B.svg?logo=svg&logoColor=white&style=plastic"style="height: 30px">
     </a>
     <a href="https://vitejs.dev/">
         <img 
         alt="Vite"
-        src="https://img.shields.io/badge/Vite%20-%23646CFF.svg?logo=vite&logoColor=white&style=plastic">
+        src="https://img.shields.io/badge/Vite%20-%23646CFF.svg?logo=vite&logoColor=white&style=plastic"style="height: 30px">
     </a>
 </p>
 

@@ -3,9 +3,6 @@
 
 ## <picture><img src = "https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/about_me.gif?raw=true" width = 50px></picture> **About me**
 
-### I am currently working on improving the Github profile but i dont have mucho time now.
-
-
 
 ### <img src = "https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/pc.gif" width="35"> Front-End Development:
 

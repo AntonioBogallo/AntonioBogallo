@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Antonio Bogallo <img src = "https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/pikachu-pokemon-hi.gif" width="55"></h1
 
 
-## <picture><img src = "https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/about_me.gif?raw=true" width = 50px></picture> **About me**
+<h2>Testing</h2>
+
+#### <img src = "https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/about_me.gif?raw=true" width = 35px> About me:
 
 
 ### <img src = "https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/pc.gif" width="35"> Front-End Development:

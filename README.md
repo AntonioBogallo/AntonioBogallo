@@ -15,7 +15,7 @@
 
 <br><br>
 
-### <img src = "https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/pc.gif?raw=true" width="35"> Front-End Development:
+### <img src = "https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/pc.gif?raw=true" width="45"> Front-End Development:
 
 
 <p>
@@ -101,7 +101,7 @@
 
 <br>
 
-### <img src = "https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/server.gif?raw=true" width="35"> Cloud Host:
+### <img src = "https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/server.gif?raw=true" width="45"> Cloud Host:
 
 <p>
     <a href="https://www.netlify.com/">
@@ -123,7 +123,7 @@
 
 <br>
 
-### <img src = "https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/non-stop.gif?raw=true" width="35"> CI/CD:
+### <img src = "https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/non-stop.gif?raw=true" width="45"> CI/CD:
 
 <p>
     <a href="https://git-scm.com/">

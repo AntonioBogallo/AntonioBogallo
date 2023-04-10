@@ -3,6 +3,12 @@
 
 <h2><img src = "https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/about_me.gif?raw=true" width="35"> About me:</h2>
 
+<ul>
+    <li>A passionate Self-taught Full-Stack developer</li>
+    <li>Currently learning Web Development by Self</li>
+    <li>thirst for knowledge</li>
+    <li>I’m currently open for an Intern or a new job opportunity</li>
+</ul>
 
 <h3><img src = "https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/pc.gif?raw=true" width="35"> Front-End Development:</h3>
 

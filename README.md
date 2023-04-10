@@ -14,7 +14,7 @@
             <li>I’m currently open for an Intern or a new job opportunity</li>
         </ul>
     </div>
-    <picture><img src="https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/developer2.gif?raw=true" width="250"></picture>
+    <!-- <picture><img src="https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/developer2.gif?raw=true" width="250"></picture> -->
 </div>
 
 

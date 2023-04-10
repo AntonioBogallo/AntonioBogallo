@@ -144,6 +144,11 @@
         alt="Go"
         src="https://img.shields.io/badge/Go%20Programming%20Language%20-%2300ADD8.svg?logo=go&logoColor=white&style=plastic"height="30">
     </a>
+    <a href="https://www.python.org/">
+        <img 
+        alt="Python"
+        src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white&style=plastic"height="30">
+    </a>
 </p>
 
 <br>
@@ -188,7 +193,6 @@
         alt="Github Actions"
         src="https://img.shields.io/badge/Github%20Actions%20-%232088FF.svg?logo=githubactions&logoColor=white&style=plastic"height="30">
     </a>
-    <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white&style=plastic"></a>
 </p>
 
 <!--

@@ -1,24 +1,21 @@
 <h1 align="center">Hi, I'm Antonio Bogallo <img src = "https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/pikachu-pokemon-hi.gif?raw=true" width="55"></h1>
 
 
-<h2><img src="https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/about_me.gif?raw=true" width="35"> About me:</h2>
+## <img src="https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/about_me.gif?raw=true" width="35"> About me:
 
 
+<picture><img align="right" src="https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/developer.gif?raw=true" width="250"></picture>
 
-<div style=" width: 100%; display: flex; flex-direction:row; justify-content: space-between; align-items:center">
-    <div>
-        <ul>
-            <li>A passionate Self-taught Full-Stack developer</li>
-            <li>Currently learning Web Development by Self</li>
-            <li>thirst for knowledge</li>
-            <li>I’m currently open for an Intern or a new job opportunity</li>
-        </ul>
-    </div>
-    <!-- <picture><img src="https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/developer2.gif?raw=true" width="250"></picture> -->
-</div>
+<br>
 
+- A passionate Self-taught Full-Stack developer
+- Currently learning Web Development by Self
+- thirst for knowledge
+- I’m currently open for an Intern or a new job opportunity
 
-<h3><img src = "https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/pc.gif?raw=true" width="35"> Front-End Development:</h3>
+<br><br>
+
+### <img src = "https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/pc.gif?raw=true" width="35"> Front-End Development:
 
 
 <p>

@@ -3,7 +3,7 @@
 
 <h2><img src="https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/about_me.gif?raw=true" width="35"> About me:</h2>
 
-<img align="right" src="https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/developer.gif?raw=true" width = 250px>
+<picture><img align="right" src="https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/developer2.gif?raw=true" width="250"></picture>
 
 <ul>
     <li>A passionate Self-taught Full-Stack developer</li>

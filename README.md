@@ -99,6 +99,8 @@
     </a>
 </p>
 
+### <img src = "https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/server.gif?raw=true" width="35"> Cloud Host:
+
 <!--
 <p>
     <a href="https://html.spec.whatwg.org/multipage/"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white&style=plastic"></a>

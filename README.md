@@ -97,11 +97,58 @@
         alt="Vite"
         src="https://img.shields.io/badge/Vite%20-%23646CFF.svg?logo=vite&logoColor=white&style=plastic"height="30">
     </a>
+    <a href="https://firebase.google.com/">
+        <img 
+        alt="Firebase"
+        src ="https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=firebase&logoColor=white&style=plastic"height="30">
+    </a>
 </p>
 
 <br>
 
-### <img src = "https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/server.gif?raw=true" width="45"> Cloud Host:
+### <img src = "https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/server.gif?raw=true" width="45"> Back-End Development:
+
+<p>
+    <a href="https://www.mongodb.com/">
+        <img 
+        alt="MongoDB"
+        src="https://img.shields.io/badge/MongoDB%20-%2347A248.svg?logo=mongodb&logoColor=white&style=plastic"height="30">
+    </a>
+    <a href="http://expressjs.com/">
+        <img 
+        alt="ExpressJS"
+        src="https://img.shields.io/badge/Express%20-%23000000.svg?logo=express&logoColor=white&style=plastic"height="30">
+    </a>
+    <a href="https://nodejs.org/">
+        <img 
+        alt="NodeJS"
+        src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white&style=plastic"height="30">
+    </a>
+    <a href="https://www.java.com/es/">
+        <img 
+        alt="Java"
+        src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white&style=plastic"height="30">
+    </a>
+    <a href="https://www.mysql.com/">
+        <img 
+        alt="MySQL"
+        src="https://img.shields.io/badge/MySQL%20-%23025E8C.svg?logo=mysql&logoColor=white&style=plastic"height="30">
+    </a>
+    <a href="https://www.typescriptlang.org/">
+        <img 
+        alt="Typescript"
+        src="https://img.shields.io/badge/TypeScript%20-%233178C6.svg?logo=typescript&logoColor=white&style=plastic"height="30">
+    </a>
+    <a href="http://go.dev/">
+        <img 
+        alt="Go"
+        src="https://img.shields.io/badge/Go%20Programming%20Language%20-%2300ADD8.svg?logo=go&logoColor=white&style=plastic"height="30">
+    </a>
+</p>
+
+<br>
+
+### <img src = "https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/cloud.gif?raw=true" width="45"> Cloud Host:
 
 <p>
     <a href="https://www.netlify.com/">
@@ -141,6 +188,7 @@
         alt="Github Actions"
         src="https://img.shields.io/badge/Github%20Actions%20-%232088FF.svg?logo=githubactions&logoColor=white&style=plastic"height="30">
     </a>
+    <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white&style=plastic"></a>
 </p>
 
 <!--
@@ -166,7 +214,7 @@
     <a href="https://www.linux.org/"><img alt="Linux" src="https://img.shields.io/badge/Linux%20-%23FCC624.svg?logo=linux&logoColor=black&style=plastic&style=plastic"></a>
     <a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html"><img alt="C" src="https://img.shields.io/badge/C%20Programming%20Language-%23ffffff.svg?logo=c&logoColor=#A8B9CC"></a>
     <a href="https://help.gnome.org/users/gnome-terminal/stable/index.html.en"><img alt="GNOME Terminal" src="https://img.shields.io/badge/GNOME%20Terminal%20-%23241F31.svg?logo=gnometerminal&logoColor=#A8B9CC"></a>
-    <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white&style=plastic"></a>
+    <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=firebase&logoColor=white&style=plastic"></a>
     <a href="https://www.java.com/es/"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white&style=plastic"></a>
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%23025E8C.svg?logo=mysql&logoColor=white&style=plastic"></a>
     <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white&style=plastic"></a>

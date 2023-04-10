@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Antonio Bogallo <img src = "https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/pikachu-pokemon-hi.gif?raw=true" width="55"></h1>
 
 
-## <img src="https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/about_me.gif?raw=true" width="35"> About me:
+## <img src="https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/about_me.gif?raw=true" width="35"> **About me:**
 
 
 <picture><img align="right" src="https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/developer.gif?raw=true" width="250"></picture>
@@ -15,7 +15,7 @@
 
 <br><br>
 
-### <img src = "https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/pc.gif?raw=true" width="45"> Front-End Development:
+### <img src = "https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/pc.gif?raw=true" width="45"> **Front-End Development:**
 
 
 <p>
@@ -106,7 +106,7 @@
 
 <br>
 
-### <img src = "https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/server.gif?raw=true" width="45"> Back-End Development:
+### <img src = "https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/server.gif?raw=true" width="45"> **Back-End Development:**
 
 <p>
     <a href="https://www.mongodb.com/">
@@ -153,7 +153,7 @@
 
 <br>
 
-### <img src = "https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/cloud.gif?raw=true" width="45"> Cloud Host:
+### <img src = "https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/cloud.gif?raw=true" width="45"> **Cloud Host:**
 
 <p>
     <a href="https://www.netlify.com/">
@@ -175,7 +175,7 @@
 
 <br>
 
-### <img src = "https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/non-stop.gif?raw=true" width="45"> CI/CD:
+### <img src = "https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/non-stop.gif?raw=true" width="45"> **CI/CD:**
 
 <p>
     <a href="https://git-scm.com/">

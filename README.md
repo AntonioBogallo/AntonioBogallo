@@ -10,7 +10,7 @@
         <li>thirst for knowledge</li>
         <li>I’m currently open for an Intern or a new job opportunity</li>
     </ul>
-    <picture><img align="rigth" src="https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/developer2.gif?raw=true" width="250"></picture>
+    <picture><img align="right" src="https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/developer2.gif?raw=true" width="250"></picture>
 </div>
 
 

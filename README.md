@@ -3,14 +3,18 @@
 
 <h2><img src="https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/about_me.gif?raw=true" width="35"> About me:</h2>
 
-<picture><img align="right" src="https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/developer2.gif?raw=true" width="250"></picture>
+<div style="display: flex; justify-content: space-between; align-items:center">
+    <ul>
+        <li>A passionate Self-taught Full-Stack developer</li>
+        <li>Currently learning Web Development by Self</li>
+        <li>thirst for knowledge</li>
+        <li>I’m currently open for an Intern or a new job opportunity</li>
+    </ul>
+    <picture><img src="https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/developer2.gif?raw=true" width="250"></picture>
+</div>
 
-<ul>
-    <li>A passionate Self-taught Full-Stack developer</li>
-    <li>Currently learning Web Development by Self</li>
-    <li>thirst for knowledge</li>
-    <li>I’m currently open for an Intern or a new job opportunity</li>
-</ul>
+
+
 
 <h3><img src = "https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/pc.gif?raw=true" width="35"> Front-End Development:</h3>
 

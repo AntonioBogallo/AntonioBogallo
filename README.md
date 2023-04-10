@@ -99,7 +99,49 @@
     </a>
 </p>
 
+<br>
+
 ### <img src = "https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/server.gif?raw=true" width="35"> Cloud Host:
+
+<p>
+    <a href="https://www.netlify.com/">
+        <img 
+        alt="Netlify"
+        src="https://img.shields.io/badge/Netlify%20-%2300C7B7.svg?logo=netlify&logoColor=white&style=plastic"height="30">
+    </a>
+    <a href="https://pages.github.com/">
+        <img 
+        alt="GitHub Pages"
+        src="https://img.shields.io/badge/GitHub%20Pages%20-%23222222.svg?logo=githubpages&logoColor=white&style=plastic"height="30">
+    </a>
+    <a href="https://www.digitalocean.com/">
+        <img 
+        alt="DigitalOcean"
+        src="https://img.shields.io/badge/DigitalOcean%20-%230080FF.svg?logo=digitalocean&logoColor=white&style=plastic"height="30">
+    </a>
+</p>
+
+<br>
+
+### <img src = "https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/non-stop.gif?raw=true" width="35"> CI/CD:
+
+<p>
+    <a href="https://git-scm.com/">
+        <img 
+        alt="Git"
+        src="https://img.shields.io/badge/Git%20-%23F05032.svg?logo=git&logoColor=white&style=plastic"height="30">
+    </a>
+    <a href="https://github.com/">
+        <img 
+        alt="Github"
+        src="https://img.shields.io/badge/Github%20-%23181717.svg?logo=github&logoColor=white&style=plastic"height="30">
+    </a>
+    <a href="https://docs.github.com/en/actions">
+        <img 
+        alt="Github Actions"
+        src="https://img.shields.io/badge/Github%20Actions%20-%232088FF.svg?logo=githubactions&logoColor=white&style=plastic"height="30">
+    </a>
+</p>
 
 <!--
 <p>

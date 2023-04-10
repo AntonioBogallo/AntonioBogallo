@@ -231,7 +231,7 @@
 
 <br>
 
-### <img src = "https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/tools.gif?raw=true" width="45"> Software and Tools**
+### <img src = "https://github.com/AntonioBogallo/AntonioBogallo/blob/main/assets/img/tools.gif?raw=true" width="45"> **Software and Tools**
 
 <p>
     <a href="https://analytics.google.com">
